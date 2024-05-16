@@ -10,7 +10,7 @@ spec:
     - name: APP_NAME
       value: PayRoll Facing Application
     - name: BG_COLOR
-      value: green
+      value: blue
     image: kodekloud/webapp-conntest
     name: payroll
     ports:
